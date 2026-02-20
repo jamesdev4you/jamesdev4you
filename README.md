@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Finding a Front End Developer Position
-- 🌱 I’m currently learning how to build 10+ page websites. 
-- 💬 Ask me about React Libraries!
+- 🔭 I’m currently working on building up my skills!
+- 🌱 I’m currently learning how to use c++. 
+- 💬 Ask me about Linked Lists!
 - 📫 How to reach me: jamesdev4you@gmail.com
 - 😄 Pronouns: he/him
 
